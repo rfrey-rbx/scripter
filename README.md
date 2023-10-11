@@ -1,6 +1,7 @@
 # Scripter
 
 A Figma plugin that runs scrips directly in Figma.
+**(but the UI doesn't actually run in Figma... it's an iframed website for some reason)**
 
 [Install in Figma...](https://figma.com/c/plugin/757836922707087381/)
 
